@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ritam Roy</h1>
 <h3 align="center">A passionate frontend developer from West Bengal India</h3>
 
-<p align="center"> <img src="https://i.pinimg.com/originals/cd/83/e3/cd83e34992570d14493c163c3ff3d42d.gif" alt="onepunch2002"/> </p>
+<p align="center"> <img src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif" alt="onepunch2002"/> </p>
 
 
 
