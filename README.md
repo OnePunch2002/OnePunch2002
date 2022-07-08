@@ -7,16 +7,6 @@
     <img src="https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/04/running-gif.gif" height="48%" width="48%" style="float:left">
 </div>
 
-<div class="image123">
-    <div class="imgContainer">
-        <img src="https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/04/running-gif.gif" height="200" width="200"/>
-    </div>
-    <div class="imgContainer">
-         <img src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif"/ height="200" width="200"/>
-        <p>This is image 3</p>
-    </div>
-</div>
-
 - 🔭 I’m currently working on **personal potfolio**
 
 - 🌱 I’m currently learning **Web Development**
