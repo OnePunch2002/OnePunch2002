@@ -10,11 +10,10 @@
 <div class="image123">
     <div class="imgContainer">
         <img src="https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/04/running-gif.gif" height="200" width="200"/>
-        <p>This is image 1</p>
     </div>
     <div class="imgContainer">
-        <img class="middle-img" src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif"/ height="200" width="200"/>
-        <p>This is image 2</p>
+         <img src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif"/ height="200" width="200"/>
+        <p>This is image 3</p>
     </div>
 </div>
 
