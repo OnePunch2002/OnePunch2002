@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ritam Roy</h1>
 <h3 align="center">A passionate frontend developer from West Bengal India</h3>
 
-<p align="left"> <img src="https://c.tenor.com/6aSncIN19j8AAAAC/banner.gif" alt="onepunch2002" /> </p>
-<p align="right"> <img src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv" alt="onepunch2002" /> </p>
+<p align="center"> <img src="https://c.tenor.com/6aSncIN19j8AAAAC/banner.gif" alt="onepunch2002" /> </p>
+<p align="center"> <img src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv" alt="onepunch2002" /> </p>
 
 - 🔭 I’m currently working on **personal potfolio**
 
