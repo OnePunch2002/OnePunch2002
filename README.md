@@ -4,8 +4,7 @@
 
 <div class="image123">
     <img src="https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/04/running-gif.gif" height="48%" width="48%" style="float:right">
-    <br>
-    <img src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif" height="48%" width="48%" style="float:left">
+    <img src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif" height="48%" width="49%" style="float:left">
 </div>
 
 - 🔭 I’m currently working on **personal potfolio**
