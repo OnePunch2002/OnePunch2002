@@ -1,9 +1,6 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif)
+![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
 <h1 align="center">Hi 👋, I'm Ritam Roy</h1>
 <h3 align="center">A passionate frontend developer from West Bengal India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif">
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif">
-
 
 <p align="left"> <img src="https://c.tenor.com/6aSncIN19j8AAAAC/banner.gif" alt="onepunch2002" /> </p>
 
