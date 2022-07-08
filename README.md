@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ritam Roy</h1>
 <h3 align="center">A passionate frontend developer from West Bengal India</h3>
 <div>
-<p align="left"> <img src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif" height="50%" width="50%" alt="onepunch2002"/> </p>
-<p align="right"> <img src="https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/04/running-gif.gif" height="50%" width="50%" alt="onepunch2002"/> </p>
+<p align="left"> <img src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif" height="48%" width="48%" alt="onepunch2002"/> </p>
+<p align="right"> <img src="https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/04/running-gif.gif" height="48%" width="48%" alt="onepunch2002"/> </p>
 </div>
 <div class="image123">
     <img src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif" height="50%" width="50%" style="float:left">
