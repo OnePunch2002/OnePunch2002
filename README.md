@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from West Bengal India</h3>
 
 <p align="left"> <img src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif" alt="onepunch2002"/> </p>
-
+<p align="right"> <img src="https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/04/running-gif.gif" alt="onepunch2002"/> </p>
 
 
 - 🔭 I’m currently working on **personal potfolio**
