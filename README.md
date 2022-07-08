@@ -7,7 +7,7 @@
 </div>
 <div class="image123">
     <img src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif" height="50%" width="50%" style="float:left">
-    <img src="https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/04/running-gif.gif" height="40%" width="40%" style="float:right">
+    <img src="https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/04/running-gif.gif" height="50%" width="50%" style="float:right">
 </div>
 
 - 🔭 I’m currently working on **personal potfolio**
