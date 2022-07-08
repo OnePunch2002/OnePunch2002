@@ -4,7 +4,12 @@
 
 <p align="left"> <img src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif" alt="onepunch2002"/> </p>
 <p align="right"> <img src="https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/04/running-gif.gif" alt="onepunch2002"/> </p>
-
+<div class="image123">
+    <img src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif" height="200" width="200" style="float:left">
+    <p>This is image 1</p>
+    <img class="middle-img" src="https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/04/running-gif.gif"/ height="200" width="200">
+    <p>This is image 2</p>
+</div>
 
 - 🔭 I’m currently working on **personal potfolio**
 
