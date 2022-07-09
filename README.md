@@ -12,6 +12,8 @@
     <img src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif" height="55%" width="49%" style="float:left">
 </div>
 
+![](https://komarev.com/ghpvc/?username=your-OnePunch2002)
+
 - 🔭 I’m currently working on **personal potfolio**
 
 - 🌱 I’m currently learning **Web Development**
