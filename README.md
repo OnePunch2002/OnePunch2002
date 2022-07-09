@@ -8,8 +8,7 @@
   </div>
   
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onepunch2002&theme=github_dark&hide_border=true" alt="onepunch2002" height="100%" width="100%" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OnePunch2002&theme=darkhub" alt="onepunch2002" height="100%" width="100%" /></a> </p>
 
 
 - 🔭 I’m currently working on **personal potfolio**
