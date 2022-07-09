@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=OnePunch2002" alt="onepunch2002" /></a> </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onepunch2002" alt="onepunch2002" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onepunch2002" alt="onepunch2002" height="100%" width="100%" /></a> </p>
 
 <div class="image123">
     <img src="https://simplybinge.com/wp-content/uploads/2015/10/one_punch_man_short_animation__by_astralnovas-d89p2rx.gif" height="100%" width="100%" style="float:center">
