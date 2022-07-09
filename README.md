@@ -7,7 +7,7 @@
 
 
 
-[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=onepunch2002" alt="onepunch2002)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=onepunch2002)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
