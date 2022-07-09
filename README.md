@@ -39,7 +39,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onepunch2002&show_icons=true&locale=en&layout=compact" alt="onepunch2002" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=onepunch2002&show_icons=true&locale=en&layout=compact" alt="onepunch2002" /></p>
 
 
 
