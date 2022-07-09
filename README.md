@@ -7,7 +7,7 @@
 
 
 
-[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=onepunch2002)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=OnePunch2002&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="onepunch2002" /></a> </p>
 
 
 
