@@ -1,6 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
 <h1 align="center">Hi 👋, I'm Ritam Roy</h1>
-<h3 align="center">A passionate frontend developer from West Bengal India</h3>
+<h3 align="center">A passionate frontend developer from </h3>
+<h4 align="center">West Bengal , India</h4>
 
 
   <div style="float:left">
