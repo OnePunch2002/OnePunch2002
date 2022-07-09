@@ -39,7 +39,7 @@
 
 
 <div class="yes">
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=onepunch2002&show_icons=true&locale=en&layout=compact" alt="onepunch2002" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=onepunch2002&show_icons=true&locale=en&layout=compact" alt="onepunch2002" stheme="tokyonight"/></p>
 
 <p align="left"><img src="https://wallpapercave.com/wp/wp2758170.gif" alt="onepunch2002"/></p>
 </div>
