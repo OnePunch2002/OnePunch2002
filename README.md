@@ -13,7 +13,7 @@
     <img src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif" height="55%" width="49%" style="float:left">
 </div>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onepunch2002" alt="onepunch2002" /></a> </p>
 
 - 🔭 I’m currently working on **personal potfolio**
 
@@ -41,18 +41,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onepunch2002&show_icons=true&locale=en&layout=compact" alt="onepunch2002" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onepunch2002&show_icons=true&locale=en" alt="onepunch2002" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onepunch2002&" alt="onepunch2002" /></p>
 
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onepunch2002&label=Profile%20views&color=0e75b6&style=flat" alt="onepunch2002" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onepunch2002" alt="onepunch2002" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@goodboy08596889" target="blank"><img src="https://img.shields.io/twitter/follow/@goodboy08596889?logo=twitter&style=for-the-badge" alt="@goodboy08596889" /></a> </p
     
     
     
