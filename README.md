@@ -13,7 +13,7 @@
     <img src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif" height="55%" width="49%" style="float:left">
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onepunch2002" alt="onepunch2002" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onepunch2002" alt="onepunch2002" /></a> </p>
 
 - 🔭 I’m currently working on **personal potfolio**
 
@@ -39,7 +39,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onepunch2002&show_icons=true&locale=en&layout=compact" alt="onepunch2002" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onepunch2002&show_icons=true&locale=en&layout=compact" alt="onepunch2002" /></p>
 
 
 
