@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from West Bengal India</h3>
 
 <div>
-<p align="center"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=OnePunch2002&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="onepunch2002" height="48%" width="48%" /></a> </p>
+<p align="left"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=OnePunch2002&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="onepunch2002" height="48%" width="48%" /></a> </p>
 
-<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=OnePunch2002" alt="onepunch2002" height="48%" width="48%" /></a> </p>
+<p align="right"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=OnePunch2002" alt="onepunch2002" height="48%" width="48%" /></a> </p>
 </div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onepunch2002" alt="onepunch2002" height="100%" width="100%" /></a> </p>
