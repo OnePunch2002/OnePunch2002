@@ -8,10 +8,8 @@
 <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=OnePunch2002" alt="onepunch2002" /></a> </p>
 
 
-![](https://komarev.com/ghpvc/?username=your-OnePunch2002&style=flat-square&color=red)
-
 <div class="image123">
-    <img src="https://i.pinimg.com/originals/cd/83/e3/cd83e34992570d14493c163c3ff3d42d.gif" height="55%" width="49%" style="float:left">
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0230acb3-c9bd-4966-8200-86acf27ebca1/dcr8hfu-3a0066f1-8a1a-46ce-bcba-bb1e4fdd3c21.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAyMzBhY2IzLWM5YmQtNDk2Ni04MjAwLTg2YWNmMjdlYmNhMVwvZGNyOGhmdS0zYTAwNjZmMS04YTFhLTQ2Y2UtYmNiYS1iYjFlNGZkZDNjMjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.P_TPqrykdgmwT4qDv2CPX41qZdTgesquK6pmoDV1T0M" height="55%" width="49%" style="float:left">
 </div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onepunch2002" alt="onepunch2002" /></a> </p>
@@ -39,6 +37,8 @@
 
 
 
+
+![](https://komarev.com/ghpvc/?username=your-OnePunch2002&style=flat-square&color=red)
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=onepunch2002&show_icons=true&locale=en&layout=compact" alt="onepunch2002" /></p>
 
