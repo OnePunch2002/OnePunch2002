@@ -3,13 +3,11 @@
 <h3 align="center">A passionate frontend developer from West Bengal India</h3>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OnePunch2002)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OnePunch2002&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
-<p align="center"> <a href="https://github-readme-streak-stats.herokuapp.com/?user=OnePunch2002"><img src="https://git.io/streak-stats2" alt="onepunch2002" /></a> </p>
-
-
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=onepunch2002" alt="onepunch2002)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
