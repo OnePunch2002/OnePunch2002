@@ -6,7 +6,6 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePunch2002)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePunch2002&show_icons=true&theme=radical)
 
 <div class="image123">
     <img src="https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/04/running-gif.gif" height="48%" width="48%" style="float:right">
