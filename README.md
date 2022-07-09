@@ -5,6 +5,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OnePunch2002&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 
 <div class="image123">
     <img src="https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/04/running-gif.gif" height="48%" width="48%" style="float:right">
