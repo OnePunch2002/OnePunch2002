@@ -39,7 +39,7 @@
 
 
 <div>
-<p style="float:left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=onepunch2002&show_icons=true&locale=en&layout=compact" alt="onepunch2002" /></p>
+<p style="float:left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=onepunch2002&show_icons=true&locale=en&layout=compact" alt="onepunch2002" height="40%" width="40%"/></p>
 
 <p style="float:left"><img src="https://wallpapercave.com/wp/wp2758170.gif" alt="onepunch2002" height="40%" width="40%"/></p>
 </div>
