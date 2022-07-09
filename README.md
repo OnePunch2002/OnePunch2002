@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ritam Roy</h1>
 <h3 align="center">A passionate frontend developer from West Bengal India</h3>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OnePunch2002&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <div class="image123">
     <img src="https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/04/running-gif.gif" height="48%" width="48%" style="float:right">
     <img src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif" height="55%" width="49%" style="float:left">
