@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ritam Roy</h1>
 <h3 align="center">A passionate frontend developer from West Bengal India</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OnePunch2002&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OnePunch2002)](https://git.io/streak-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePunch2002)](https://github.com/anuraghazra/github-readme-stats)
 
