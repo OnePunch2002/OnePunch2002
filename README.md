@@ -3,15 +3,10 @@
 <h3 align="center">A passionate frontend developer from West Bengal India</h3>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OnePunch2002&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-
 <p align="center"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=OnePunch2002&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="onepunch2002" /></a> </p>
 
+<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=OnePunch2002" alt="onepunch2002" /></a> </p>
 
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePunch2002)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=your-OnePunch2002&style=flat-square&color=red)
 
