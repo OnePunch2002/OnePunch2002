@@ -4,9 +4,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OnePunch2002&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-[![GitHub commits](https://badgen.net/github/commits/OnePunch2002/Strapdown.js)](https://GitHub.com/OnePunch2002/StrapDown.js/commit/)
-[![Github all releases](https://img.shields.io/github/downloads/OnePunch2002/StrapDown.js/total.svg)](https://GitHub.com/OnePunch2002/StrapDown.js/releases/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePunch2002)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePunch2002&show_icons=true&theme=radical)
 
 <div class="image123">
     <img src="https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/04/running-gif.gif" height="48%" width="48%" style="float:right">
