@@ -11,8 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=your-OnePunch2002&style=flat-square&color=red)
 
 <div class="image123">
-    <img src="https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/04/running-gif.gif" height="48%" width="48%" style="float:right">
-    <img src="https://c.tenor.com/mK2J5obzWDMAAAAd/perfect-loop.gif" height="55%" width="49%" style="float:left">
+    <img src="https://i.pinimg.com/originals/cd/83/e3/cd83e34992570d14493c163c3ff3d42d.gif" height="55%" width="49%" style="float:left">
 </div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onepunch2002" alt="onepunch2002" /></a> </p>
