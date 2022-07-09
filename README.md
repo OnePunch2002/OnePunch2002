@@ -7,7 +7,7 @@
 
 
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OnePunch2002)](https://git.io/streak-stats" alt="onepunch2002" /></p>
+<p align="center"> <a href="https://github-readme-streak-stats.herokuapp.com/?user=OnePunch2002"><img src="https://git.io/streak-stats2" alt="onepunch2002" /></a> </p>
 
 
 
