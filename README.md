@@ -38,6 +38,6 @@
 
 ![](https://komarev.com/ghpvc/?username=your-OnePunch2002&style=flat-square&color=red)
 
-<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=onepunch2002&show_icons=true&locale=en&layout=compact" alt="onepunch2002" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=onepunch2002&show_icons=true&locale=en&layout=compact" alt="onepunch2002" /></p>
 </div>
 
