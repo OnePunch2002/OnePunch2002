@@ -37,7 +37,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-OnePunch2002&style=flat-square&color=red)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnePunch2002&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnePunch2002&layout=compact&theme=tokyonight_duo&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div class="yes">
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=onepunch2002&show_icons=true&locale=en&layout=compact&theme=tokyonight_duo&hide_border=true" alt="onepunch2002"/></p>
