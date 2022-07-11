@@ -17,11 +17,11 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/ritamroy/extras?authuser=0](https://sites.google.com/view/ritamroy/extras?authuser=0)
+- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/OnePunch2002)
 
 - 📫 How to reach me **ritamroy380@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ritam-roy-35013b219](https://www.linkedin.com/in/ritam-roy-35013b219)
+- 📄 Know about me on [Linkedin](https://www.linkedin.com/in/ritam-roy-35013b219)
 
 
 <h3 align="left">Connect with me:</h3>
