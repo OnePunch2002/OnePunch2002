@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/OnePunch2002)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/OnePunch2002)
 
 - 📫 How to reach me **ritamroy380@gmail.com**
 
