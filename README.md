@@ -9,6 +9,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OnePunch2002&theme=nord&no-frame=true" alt="onepunch2002" height="99%" width="99%" /></a> </p>
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/ritamroy/extras?authuser=0)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritam-roy-35013b219)
 
 - 🔭 I’m currently working on **personal potfolio**
 
