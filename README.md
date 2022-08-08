@@ -13,7 +13,7 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://onepunch2002.github.io/RitamRoy.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritam-roy-35013b219)
 
-- 🔭 I’m currently working on **personal potfolio**
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **Web Development**
 
