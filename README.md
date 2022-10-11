@@ -39,7 +39,3 @@
 ![](https://komarev.com/ghpvc/?username=your-OnePunch2002&style=flat-square&color=red)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnePunch2002&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="left"><img src="https://wallpapercave.com/wp/wp2758170.gif" alt="onepunch2002"/></p>
-</div>
-
