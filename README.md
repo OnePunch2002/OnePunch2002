@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
+![MasterHead](https://github.com/OnePunch2002/OnePunch2002/blob/main/Banner.gif)
 <h1 align="center">Hi <img src="https://github.com/OnePunch2002/OnePunch2002/blob/main/Hi.gif" width="29">, I'm Ritam Roy</h1>
 <h3 align="center">A Creative developer from <br>West Bengal , India</h3>
 
