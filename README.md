@@ -5,9 +5,6 @@
   <div style="float:left">
   <p align="left"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=OnePunch2002&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D" height="99%" width="99%" /></a> </p>
   </div>
-  
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OnePunch2002&theme=nord&no-frame=true" alt="onepunch2002" height="99%" width="99%" /></a> </p>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://onepunch2002.github.io/RitamRoy.github.io/)
